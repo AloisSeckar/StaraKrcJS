@@ -10,11 +10,11 @@
     "supabase": "npx openapi-typescript https://bcsqxrbptpbzhnlfxrrh.supabase.co/rest/v1/?apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJjc3F4cmJwdHBiemhubGZ4cnJoIiwicm9sZSI6ImFub24iLCJpYXQiOjE2Njc4NTQ4NTIsImV4cCI6MTk4MzQzMDg1Mn0.kPtJGKrQhQWbiCnM4e6OpfciBOhGqXd012MRMkX6pWE --output database/_api.ts"
   },
   "devDependencies": {
-    "nuxt-ignis": "0.1.5",
-    "@nuxtjs/cloudinary": "3.1.1",
+    "nuxt-ignis": "0.1.7",
+    "@nuxtjs/cloudinary": "4.0.0",
     "cloudinary": "2.5.1",
     "infinitimeline": "0.5.0",
     "openapi-typescript": "5.4.1",
-    "vue-dompurify-html": "5.1.0"
+    "vue-dompurify-html": "5.2.0"
   }
 }
